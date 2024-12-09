@@ -1,0 +1,1 @@
+# shopapp_in_django
